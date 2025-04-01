@@ -13,9 +13,13 @@ REMARQUE : Les noms, emails, numéros de téléphone et numéros de carte de cr�
 ## Intérêt de travailler avec Pandas
 
 📌 1. Manipulation de Données Facile et Efficace
+
 📊 2. Analyse et Prétraitement des Données
+
 🚀 3. Optimisation des Performances
+
 📈 4. Visualisation et Intégration
+
 🔍 5. Machine Learning et Intégration avec Scikit-Learn
 
 ## Exécution du code python
