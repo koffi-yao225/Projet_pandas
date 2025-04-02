@@ -24,9 +24,9 @@ REMARQUE : Les noms, emails, numéros de téléphone et numéros de carte de cr�
 
 ## Exécution du code python
 
-Dans ce projet, j'ai répondu à un nombre de question permettant de mener une analyse sur un hotels à partir de ses données.
+Dans ce projet, j'ai répondu à un nombre de question pertinant permettant de mener une analyse sur un hotels à partir de ses données.
 
-Le fichier est un notebook, je vous conseille de le télécharger et ensuite de l'exévuter sur un Jupyter ou Google Collab afin de voir les résultats, dans le cas contraire VSCode.
+Le fichier est un notebook, je vous conseille de le télécharger et ensuite de l'exévuter sur Jupyter ou Google Collab afin de voir les résultats, dans le cas contraire VSCode.
 
 J'ai aussi fourni le datasaet du projet dans la mésure où l'URL dans le code ne serait plus disponible.
 
